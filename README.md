@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+Hello github!
+
+My name is Jane and I'm ready to get started!
